@@ -9,4 +9,4 @@ class Teacher < User
 end
 
 
-#KNOWLEDGE.sample - does the same thing above FYI
+#KNOWLEDGE.sample - does the same thing above FYI!
